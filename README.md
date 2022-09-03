@@ -1,5 +1,5 @@
 # Smart-Contract
-Código Cegonha Coin ( Linguagem Solidity )
+Cegonha Coin Code (Solidity Language)
 
 
 <h1 align="center">
