@@ -31,4 +31,7 @@ Purchase Instruction!
 
 <img src="https://i.ibb.co/CHFpjBs/kkkmkmkm.png" alt="kkkmkmkm" border="0">
 
+
+<a href="https://www.youtube.com/watch?v=UuSSjxMcIOQ&t=21s" rel="nofollow">Iniciar tutorial</a>
+
 ## Usage 💻
