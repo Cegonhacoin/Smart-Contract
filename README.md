@@ -19,6 +19,20 @@ Select language: EN | [CN](./README_zh_CN.md) | [PT](./README_pt_BR.md) | [FA](.
 
 Cegonha Coin is a meme token that was inspired by the black stork, with the aim of being a means of payment in the bird world. Its total supply is 1 quadrillion and its behavior is deflationary, generating 2% CC for holders and 9% for the liquidity portfolio.
 
+/**
+* @dev Módulo de contrato que fornece um mecanismo básico de controle de acesso, onde
+* existe uma conta (um proprietário) que pode ter acesso exclusivo a
+* funções específicas.
+*
+* Por padrão, a conta do proprietário será aquela que implanta o contrato. este
+* pode ser alterado posteriormente com {transferOwnership}.
+*
+* Este módulo é usado por herança. Ele disponibilizará o modificador
+* `onlyOwner`, que pode ser aplicado às suas funções para restringir seu uso a
+* o dono.
+*/
+
+
 Buy via Pancakeswap and become a CC holder.
 
 **PANCAKESWAP:** [pancakeswap.finance](https://pancakeswap.finance/))
