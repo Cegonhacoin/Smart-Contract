@@ -1,11 +1,11 @@
 # Smart-Contract
-Cegonha Coin Code (Solidity Language)
+Stork Chain Code (Solidity Language)
 
 
 <h1 align="center">
-<img src="https://i.ibb.co/1mm3bM9/Cegonhacoin.png" alt="Cegonhacoin" border="0">
+<img src="https://i.ibb.co/WW9LY8Rd/500-x-500-full.png" alt="500 x 500 full" border="0">
 <br/><br/>
-Cegonha Coin [ CC ]  
+Stork Chain  
 </h1>
 
 <div align="center">
@@ -17,7 +17,7 @@ Cegonha Coin [ CC ]
 
 Select language: EN | [CN](./README_zh_CN.md) | [PT](./README_pt_BR.md) | [FA](./README_fa_IR.md)
 
-Cegonha Coin is a meme token that was inspired by the black stork, with the aim of being a means of payment in the bird world. Its total supply is 1 quadrillion and its behavior is deflationary, generating 2% CC for holders and 9% for the liquidity portfolio.
+Stork Chain is a meme token that was inspired by the black stork, with the aim of being a means of payment in the bird world. Its total supply is 1 quadrillion and its behavior is deflationary, generating 2% CC for holders and 9% for the liquidity portfolio.
 
 /**
 * @dev Módulo de contrato que fornece um mecanismo básico de controle de acesso, onde
@@ -33,7 +33,7 @@ Cegonha Coin is a meme token that was inspired by the black stork, with the aim 
 */
 
 
-Buy via Pancakeswap and become a CC holder.
+Buy via Pancakeswap and become a Stork Chain holder.
 
 **PANCAKESWAP:** [pancakeswap.finance](https://pancakeswap.finance/))
 
@@ -43,7 +43,7 @@ Purchase Instruction!
 
 0xAF1e3140C87633a830349746Fb572b0a32c703E5
 
-<img src="https://i.ibb.co/0K5Fq4w/20220906-104649-0000.png" alt="20220906-104649-0000" border="0">
+
 
 <img src="https://i.ibb.co/CHFpjBs/kkkmkmkm.png" alt="kkkmkmkm" border="0">
 
